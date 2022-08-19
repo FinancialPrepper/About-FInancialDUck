@@ -1,0 +1,115 @@
+.header {
+    background-color: #5c7a9c;
+    color: rgb(0, 0, 0);
+    text-align: center;
+    padding-top: 3%;
+    padding-bottom: 3%;
+}
+
+.container {
+    background-color: #214462;
+    width: 1000px;
+    margin: auto;
+    color: #fff
+
+}
+
+
+h1 {
+    font-family: ml,Monaco,"DejaVu Sans Mono","Lucida Console",monospace;
+
+}
+
+h2 {
+  font-family: ml,Monaco,"DejaVu Sans Mono","Lucida Console",monospace;
+}
+
+body{
+   background-color: rgb(48, 48, 48);
+}
+
+.content {
+    padding-left: 20px;
+    padding-right: 20px;
+    display: flex;
+    margin-top: 15%;
+    margin-bottom: 15%;
+}
+
+.image {
+    width: 310px;
+}
+
+
+.text {
+    width: 650px;
+    color: white;
+
+}
+
+.image {
+    height: 200px;
+    width: 200px;
+}
+
+.container {
+   font-family: ml,Monaco,"DejaVu Sans Mono","Lucida Console",monospace;
+   font-weight: 400;
+}
+
+
+.footer{
+    text-align: center;
+    padding-bottom: 2%;
+    background-color: #5c7a9c;
+    padding-top: 2%;
+    font-family: ml,Monaco,"DejaVu Sans Mono","Lucida Console",monospace;
+    font-weight: 400;
+    color: black;
+    
+}
+
+button{
+    border-radius: 5px;
+    background-color: #edd51c;
+    border: 0;
+    width: 90px;
+    height: 35px;
+    color: black;
+    padding: 5px;
+    font-family: ml,Monaco,"DejaVu Sans Mono","Lucida Console",monospace;;
+}
+
+img {
+    border-radius: 50%;
+}
+
+
+
+button:hover {
+    background-color: #214462;
+    color: white;
+
+}
+
+
+
+.button {
+    color: white;
+    display:block;
+    top: 120px;
+    position: relative;
+    visibility: visible;
+}
+
+.button:hover {
+    color: grey;
+}
+
+.WBP {
+    color:white;
+    display: block;
+    top: 100px;
+    position: relative;
+    visibility: visible
+}
